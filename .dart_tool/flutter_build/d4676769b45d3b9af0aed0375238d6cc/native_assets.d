@@ -1,0 +1,1 @@
+ /Users/apple/CleanArchitectureTask/.dart_tool/flutter_build/d4676769b45d3b9af0aed0375238d6cc/native_assets.yaml: 
